@@ -1,5 +1,13 @@
 # Face-Recognistion-openCV
 ## This project is done for Fun,to recognize the faces of me and my friends
+First ensure you install requirements.txt using
+<br>&ensp;&ensp;&ensp;&ensp;pip install -r requirements.txt
+<br>In this repository 
+ <br>&ensp;&ensp;&ensp;&ensp;faces.py
+ <br>&ensp;&ensp;&ensp;&ensp;face_image.py 
+<br>are used to detect the faces in the image
+<br>I used harcascade facedetection data which is used in these code snippets ...please ensure that you provide the correct path if you changed the files
+
 ### I have done this in two ways
        1)Using vgg16() as recognizer(which didn't give satisfying results)
        2)Using opencv face LBPHFaceRecognizer
@@ -29,3 +37,12 @@ I can't provide all the dataset to you as it is custom dataset made by me.😊
                      recognizer_video.py(for video prediction)
 Same as above create a data folder with mages in their respective folders of their label name.
 <br>Run the codes in the above sequence😃
+<br>The output looks something like this(by the way this is not my image)<br>
+<div align="center">
+    <img src="./ss2.PNG" width="400px"</img> 
+</div>
+<br>If you have more number of images then use this model,It is giving good results if you have more images.But as harcascade doesn't recognize faces which faces sidewards,This is a major drawback.
+<br>If you're having private third party xml file,then you can use it.
+<h4>This model is giving bit stable and acuurate results for me.Hope this works on your dataset too🤞</h4>
+
+
