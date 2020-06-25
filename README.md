@@ -16,7 +16,7 @@ First download the zip file of repository and extract it
 <div align="center">
     <img src="./terminal.PNG" width="400px"</img> 
 </div>
-
+(If you still face any issues after executing any code snippet,kindly install the libraries manually😏 and run again)
 <br>In this repository 
  <br>&ensp;&ensp;&ensp;&ensp;faces.py
  <br>&ensp;&ensp;&ensp;&ensp;face_image.py 
