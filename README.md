@@ -37,9 +37,9 @@ I can't provide all the dataset to you as it is custom dataset made by me.😊
                      recognizer_video.py(for video prediction)
 Same as above create a data folder with mages in their respective folders of their label name.
 <br>Run the codes in the above sequence😃
-<br>The output looks something like this(by the way this is not my image)<br>
+<br>The output looks something like this(It detects other persons as unknown,whose images are not included in training data)<br>
 <div align="center">
-    <img src="./ss2.PNG" width="400px"</img> 
+    <img src="./ss3.PNG" width="400px"</img> 
 </div>
 <br>If you have more number of images then use this model,It is giving good results if you have more images.But as harcascade doesn't recognize faces which faces sidewards,This is a major drawback.
 <br>If you're having private third party xml file,then you can use it.
