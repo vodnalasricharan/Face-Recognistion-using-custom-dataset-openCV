@@ -43,7 +43,7 @@ I can't provide all the dataset to you as it is custom dataset made by me.😊
 <br>If you want you can place all these images obtained by load_data.py in a directory(folder) named train
 <br>After sucessfull execution of all the above codes .....fianlly you can run any prediction code(predict.py/face_image.py/video-predict.py)
 <h4>The results are not satisfactory as the dataset near me is not balanced.If you want you can try this on your custom dataset😉</h4>
-<br>
+
 ## Using LBPHFaceRecognizer
               
               used files are:
