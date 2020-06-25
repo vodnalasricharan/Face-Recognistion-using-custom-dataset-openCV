@@ -1,4 +1,4 @@
-# Face-Recognistion-openCV
+# Face-Recognistion-using-custom-dataset-openCV
 ## This project is done for Fun,to recognize the faces of me and my friends
 First ensure you install requirements.txt using
 <br>&ensp;&ensp;&ensp;&ensp;pip install -r requirements.txt
