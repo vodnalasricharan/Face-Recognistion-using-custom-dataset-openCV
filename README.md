@@ -10,13 +10,13 @@ First download the zip file of repository and extract it
     <img src="./openpycharm.PNG" width="400px"</img> 
 </div>
 <br>Set the project interpreter in virtual environment(Now I can't tell you how to set virtual environment in pycharm🤷‍♀️,you can search in youtube or google it to know how to set virtual environment) 
-<br>Make sure you install requirements.txt
+<br>Make sure you install all the required libraries mentioned in requirements.txt
 <br>&ensp;&ensp;To install open terminal in pycharam and type
-<br>&ensp;&ensp;&ensp;&ensp;pip install -r requirements.txt
-<br>
+<br>&ensp;&ensp;&ensp;&ensp;pip install -r requirements.txt<br>
 <div align="center">
     <img src="./terminal.PNG" width="400px"</img> 
 </div>
+
 <br>In this repository 
  <br>&ensp;&ensp;&ensp;&ensp;faces.py
  <br>&ensp;&ensp;&ensp;&ensp;face_image.py 
