@@ -4,7 +4,7 @@ First download the zip file of repository and extract it
 <div align="center">
     <img src="./downloadzip.PNG" width="400px"</img> 
 </div>
-<br>After that you can see a folder named Face-Recognisition-using-custom-dataset-openCV
+<br>After that you can see a folder named 'Face-Recognisition-using-custom-dataset-openCV'
 <br>Right click on the folder and click on pycharm open as project (you can use your favourite IDE if any)
 <div align="center">
     <img src="./openpycharm.PNG" width="400px"</img> 
@@ -44,7 +44,7 @@ I can't provide all the dataset to you as it is custom dataset made by me.😊
     <img src="./ss1.PNG" width="400px"</img> 
 </div>
 <br>Then run faces_train.py
-<br>It takes .csv file and directory of the images obtained by load_data.py
+<br>It takes '.csv' file and directory of the images obtained by load_data.py
 <br>If you want you can place all these images obtained by load_data.py in a directory(folder) named train
 <br>After sucessfull execution of all the above codes .....fianlly you can run any prediction code(predict.py/face_image.py/video-predict.py)
 <h4>The results are not satisfactory as the dataset near me is not balanced.If you want you can try this on your custom dataset😉</h4>
