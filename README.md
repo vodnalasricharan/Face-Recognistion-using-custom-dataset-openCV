@@ -37,7 +37,12 @@ Make sure you install all the required libraries mentioned in requirements.txt
 I can't provide all the dataset to you as it is custom dataset made by me.😊
 <br>Run the codes in the same order as provided✌
 <br>To load data using load_data.py the data should be put in a data folder and images in their respective folders of their label name<br>
-![Screenshot](ss1.PNG)
+<div align="center">
+    <img src="./datafolder.PNG" width="400px"</img> 
+</div><br>
+<div align="center">
+    <img src="./ss1.PNG" width="400px"</img> 
+</div>
 <br>Then run faces_train.py
 <br>It takes .csv file and directory of the images obtained by load_data.py
 <br>If you want you can place all these images obtained by load_data.py in a directory(folder) named train
